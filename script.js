@@ -36,7 +36,6 @@ const targetWords = [
   "staff",
   "paper",
   "unfed",
-  "aseem",
   "whelp",
   "trawl",
   "outdo",
